@@ -1,0 +1,5 @@
+Sistema de filtro para atendimentos vinculádos ao usuário precisa puxar o USERID diretamente da session
+O USERID existente só funciona quando aplica submissão no botão do formulário
+
+Para enviar requisição assincrona php, pode ser feito através de Jquery com o Ajax.
+Necessita importar a biblioteca Jquery.
